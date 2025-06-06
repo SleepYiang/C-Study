@@ -16,6 +16,8 @@
 // | --         | «∞÷√µ›ºı   | a=2; b=--a; | a=1; b=1; |
 // | --         | ∫Û÷√µ›ºı   | a=2; b=a--; | a=1; b=2; |
 //
+#include<iostream>
+using namespace std;
 int main()
 {
     int a1 = 10;
